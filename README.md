@@ -59,6 +59,8 @@ A closure is an inner function that has access to the outer (enclosing) function
 
 5. Why do we need super() in an extended class?
 
+The super keyword in JavaScript is used in order to call the methods of the parent class. By itself, super() is used within a constructor function to call the parent constructor function.
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:
